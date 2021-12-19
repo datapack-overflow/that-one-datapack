@@ -8,3 +8,6 @@ Pretty sure this file won't be read by Minecraft so I'm putting this here. Just.
 Not licensed (yet! whoops)
 
 May be licensed with GNU GPL v3. Or in the public domain. I don't know, honestly!
+
+## What is this datapack for?
+Testing with Minecraft. /give, /effect, /entitydata, you name it. Plus other useful stuff for servers (probably).
