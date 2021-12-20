@@ -23,4 +23,4 @@ A: I don't know enough Java and also because making a mod can break Minecraft to
 
 Q: Where's the code?
 
-A: I am making it. Be patient (please).
+A: I am making it. Be patient (seriously).
