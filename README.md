@@ -18,4 +18,5 @@ Current maintainers of this project are:
 
 ## Frequently Asked Questions
 Q: Why make a Minecraft datapack instead of a Forge/Fabric mod?
-A: I don't know enough Java and also because making a mod can break Minecraft to unplayable.
+
+A: I don't know enough Java and also because making a mod can break Minecraft to unplayable levels.
