@@ -4,7 +4,7 @@
 This is the BLEEDING EDGE branch. World destruction/corruption is possible, so remember to back them up.
 Pretty sure this file won't be read by Minecraft so I'm putting this here. Just...make sure to remove it when you play.
 
-## License (lol)
+## License (no, seriously)
 Not licensed (yet! whoops)
 
 May be licensed with GNU GPL v3. Or in the public domain. I don't know, honestly!
