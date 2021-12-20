@@ -14,7 +14,8 @@ Testing with Minecraft. /give, /effect, /entitydata, you name it. Plus other use
 
 ## Maintainers
 Current maintainers of this project are:
-   @UnderSet (former repository owner)
+- @UnderSet (former repository owner)
+- @KeyboardOverflow20
 
 ## Frequently Asked Questions
 Q: Why make a Minecraft datapack instead of a Forge/Fabric mod?
