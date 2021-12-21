@@ -1,0 +1,1 @@
+tellraw @a[scores={HealthPoints=5}] {"text": "CRITICAL DAMAGE"}
