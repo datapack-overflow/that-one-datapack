@@ -1,1 +1,1 @@
-tellraw @a[scores={HealthPoints=5}] {"text": "CRITICAL DAMAGE"}
+execute as @a[scores={HealthPoints=3..5}] run function test:lowhealth
