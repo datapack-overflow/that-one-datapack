@@ -1,0 +1,1 @@
+execute as @a[scores={HealthPoints=3..5}] run function test:lowhealth
