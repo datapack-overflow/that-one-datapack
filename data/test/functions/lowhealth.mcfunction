@@ -1,2 +1,2 @@
-title @s subtitle {"text": "WARNING: Low Health!","color": "red"}
-title @s title {"text": ""}
+tellraw @s {"text": "WARNING: Low Health!","color": "red"}
+scoreboard players set @s isLowHealth 2
