@@ -1,5 +1,6 @@
 # [Unnamed Datapack]
 
+### WARNING: Your world might heavily lag after installation of the datapack. Use with caution.
 ## What is this file for?
 This is the BLEEDING EDGE branch. World destruction/corruption is possible, so remember to back them up.
 Pretty sure this file won't be read by Minecraft so I'm putting this here. Just...make sure to remove it when you play.
