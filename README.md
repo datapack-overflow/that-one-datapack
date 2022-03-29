@@ -1,5 +1,8 @@
 # [Unnamed Datapack]
 
+## ℹ DATAPACK IS ARCHIVED FOR THE TIME BEING 
+Reason: Dev's lack of time
+
 ### WARNING: Your world might heavily lag after installation of the datapack. Use with caution.
 ## Branches in the pack
 This is the BLEEDING EDGE branch for 1.17 JAVA. World destruction/corruption is possible (not this version), so remember to back them up.
