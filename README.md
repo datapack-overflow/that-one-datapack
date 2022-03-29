@@ -1,6 +1,6 @@
 # [Unnamed Datapack]
 
-## [ℹ] DATAPACK IS ARCHIVED FOR THE TIME BEING 
+## ℹ DATAPACK IS ARCHIVED FOR THE TIME BEING 
 
 ## Branches in this repo
 This is the main branch. Bleeding edge stuff available on the respective branch (where the code lies since it's not fully tested currently).
