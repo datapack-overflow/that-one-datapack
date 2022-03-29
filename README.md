@@ -1,5 +1,8 @@
 # [Unnamed Datapack]
 
+## ℹ DATAPACK IS ARCHIVED FOR THE TIME BEING 
+Reason for archival: Developer doesn't have time
+
 ### WARNING: Your world might heavily lag after installation of the datapack. Use with caution.
 ## What is this file for?
 This is the BLEEDING EDGE branch. World destruction/corruption is possible, so remember to back them up.
